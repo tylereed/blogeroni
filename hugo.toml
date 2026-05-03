@@ -1,0 +1,4 @@
+baseURL = ''
+locale = 'en-us'
+title = 'Blogeroni'
+theme = "vintage-web-hugo-theme"
